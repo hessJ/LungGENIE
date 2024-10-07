@@ -1,0 +1,17 @@
+Welcome to LungGENIE! 
+
+Getting Started: 
+1. Download and install latest version of R
+2. Clone this repository 
+3. Download the normalized RNA-seq data from GTEx donors with paired lung & blood transcriptomes. Version 8 release of GTEx was used for this work.
+
+Instructions:
+1. Open R/RStudio
+2. Load LungGENIE source code into working environment
+3. Load blood RNA-seq data for external dataset for which you wish to apply LungGENIE imputation models
+4. Update LungGENIE model weights to better suit the external data to which you wish to apply our imputation models
+5. Impute lung tissue transcriptomes & analyze 
+
+
+
+
