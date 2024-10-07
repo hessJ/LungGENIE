@@ -3,7 +3,7 @@ Welcome to LungGENIE!
 Getting Started: 
 1. Download and install latest version of R
 2. Clone this repository 
-3. Download the normalized RNA-seq data from GTEx donors with paired lung & blood transcriptomes. Version 8 release of GTEx was used for this work.
+3. Download the normalized RNA-seq data from GTEx donors with paired lung & blood transcriptomes. Version 8 release of GTEx was used for this work. Link: https://www.dropbox.com/scl/fo/rs9l0sj6ip5zkql0cpxpw/AFf6RjktBJuijQalS7h8FAk?rlkey=t56oqc2v0vdqqvw3o2tcn4n6w&st=6q0xsooe&dl=0
 
 Instructions:
 1. Open R/RStudio
